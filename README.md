@@ -1,4 +1,4 @@
-[# Hi, I'm shellatol-commits! 👋
+# Hi, I'm shellatol-commits! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating meaningful software and contributing to the open-source community.
 
@@ -16,20 +16,20 @@ I'm a software developer with a strong commitment to clean code, continuous lear
 
 I work with a variety of technologies and tools:
 
-- **Languages**: [Add your languages here]
-- **Frameworks & Libraries**: [Add your frameworks here]
-- **Tools & Platforms**: [Add your tools here]
-- **Databases**: [Add your databases here]
+- **Languages**: [html]
+- **Frameworks & Libraries**: [No frameworks]
+- **Tools & Platforms**: [Github, modrinth]
+- **Databases**: [No databases]
 
 ## 🏆 Featured Projects
 
-<h3>Snow Fixer</h3>
-Snow Fixer
+### [Snow Fixer](https://modrinth.com/datapack/snow-fixer)
+This datapack makes snow not melt
 
-### [Project Name 2]
+### [Totem Man](https://modrinth.com/resourcepack/totem-man)
 Brief description of what this project does and why it's notable.
 
-### [Project Name 3]
+### [ShellAtol's Secret Doors](https://modrinth.com/datapack/
 Brief description of what this project does and why it's notable.
 
 ## 📊 GitHub Stats
