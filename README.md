@@ -29,7 +29,7 @@ This datapack makes snow not melt
 ### [Totem Man](https://modrinth.com/resourcepack/totem-man)
 Brief description of what this project does and why it's notable.
 
-### [ShellAtol's Secret Doors](https://modrinth.com/datapack/
+### [ShellAtol's Secret Doors](https://modrinth.com/datapack/shellatols-secret-doors)
 Brief description of what this project does and why it's notable.
 
 ## 📊 GitHub Stats
@@ -42,10 +42,10 @@ Brief description of what this project does and why it's notable.
 
 I'm always interested in collaborating on interesting projects and connecting with fellow developers!
 
-- 🔗 <a href="https://youtube.com/@shellatol145">Youtube Profile</a>
-- 🌐 [Personal Website]
-- 📧 [Email]
-- 🎮 [Minecraft stuff]
+- 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
+- 🌐 [Personal Website](https://lmcmods.w3spaces.com)
+- 📧 [Email](mailto://lucas.necel@gmail.com)
+- 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
 ## 💪 What I'm Passionate About
 
