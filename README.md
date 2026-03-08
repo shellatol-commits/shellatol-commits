@@ -24,13 +24,13 @@ I work with a variety of technologies and tools:
 ## 🏆 Featured Projects
 
 ### [Snow Fixer](https://modrinth.com/datapack/snow-fixer)
-This datapack makes snow not melt
+This datapack makes snow not melt.
 
 ### [Totem Man](https://modrinth.com/resourcepack/totem-man)
-Brief description of what this project does and why it's notable.
+This resource pack changes the texuture of the totem of undying to a man.
 
 ### [ShellAtol's Secret Doors](https://modrinth.com/datapack/shellatols-secret-doors)
-Brief description of what this project does and why it's notable.
+This datapack adds a secret door.
 
 ## 📊 GitHub Stats
 
@@ -44,7 +44,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 - 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
 - 🌐 [Personal Website](https://lmcmods.w3spaces.com)
-- 📧 [Email](mailto://lucas.necel@gmail.com)
+- 📧 [Email](mailto:lucas.necel@gmail.com)
 - 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
 ## 💪 What I'm Passionate About
@@ -53,7 +53,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 - Writing clean, well-documented code
 - Mentoring and helping other developers
 - Contributing to meaningful open-source projects
-- [Add your other passions here]
+- Creating Minecraft stuff
 
 ---
 
