@@ -44,7 +44,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 - 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
 - 🌐 [Personal Website](https://lmcmods.w3spaces.com)
-- 📧 [Email](mailto:lucas.necel@gmail.com)
+- 📧 [Email](about:blank)
 - 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
 ## 💪 What I'm Passionate About
