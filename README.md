@@ -44,7 +44,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 - 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
 - 🌐 [Personal Website](https://lmcmods.w3spaces.com)
-- 🌐 [Personal Website 2](shellatol-commits.github.io/supreme-barnacle)
+- 🌐 [Personal Website 2](https://shellatol-commits.github.io/supreme-barnacle)
 - 📧 [Email](about:blank)
 - 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
