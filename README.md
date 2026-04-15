@@ -44,7 +44,6 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 - 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
 - 🌐 [Personal Website](https://lmcmods.w3spaces.com)
-- 🌐 [Personal Website 2](https://shellatol-commits.github.io/supreme-barnacle)
 - 📧 [Email](about:blank)
 - 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
@@ -61,3 +60,4 @@ I'm always interested in collaborating on interesting projects and connecting wi
 <div align="center">
   <em>Always open to interesting conversations and collaboration opportunities! Feel free to reach out.</em>
 </div>
+[Project Archive](https://shellatolmcarchive.my.canva.site)  [My Purpur Server](javascript:const novaJanela = window.open('about:blank', '_blank'); novaJanela.document.write("<style>html { font-family: Aroial, Helvetica, sans-serif; }</style><h1>Unavailable.</h1>");
