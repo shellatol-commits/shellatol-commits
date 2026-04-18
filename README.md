@@ -59,6 +59,8 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 [Project Archive](https://shellatolmcarchive.my.canva.site)
 
+---
+
 <div align="center">
   <em>Always open to interesting conversations and collaboration opportunities! Feel free to reach out.</em>
 </div>
