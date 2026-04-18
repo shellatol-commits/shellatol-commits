@@ -60,4 +60,4 @@ I'm always interested in collaborating on interesting projects and connecting wi
 <div align="center">
   <em>Always open to interesting conversations and collaboration opportunities! Feel free to reach out.</em>
 </div>
-[Project Archive](https://shellatolmcarchive.my.canva.site) <a href="javascript:const newtab = window.open('about:blank', '_blank'); newtab.document.write("<style>html { font-family: Arial, Helvetica, sans-serif; }</style><h1>Unavailable.</h1>");">My Purpur Server</a>
+[Project Archive](https://shellatolmcarchive.my.canva.site)
