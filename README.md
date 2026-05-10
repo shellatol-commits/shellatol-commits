@@ -57,7 +57,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 ---
 
-[Project Archive](https://shellatolmcarchive.my.canva.site)  [Vista Niagara](https://vista-niagara.vercel.app/)
+[Project Archive](https://shellatolmcarchive.my.canva.site)  [Vista Niagara](https://vista-niagara.vercel.app/) ![MCreator Mod Count](https://img.shields.io/badge/MCreator_Mods-3-green) ![Other Project Count](https://img.shields.io/badge/Other_Projects-11-black) ![All Project Count](https://img.shields.io/badge/All_Projects-14-purple)
 
 ---
 
