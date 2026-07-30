@@ -44,7 +44,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 - 🔗 [YouTube Profile](https://youtube.com/@shellatol145)
 - 🌐 [Personal Website](https://lmcmods.w3spaces.com)
-- 📧 [Email](about:blank)
+- 📧 [Email](mailto:)
 - 🎮 [Minecraft stuff](https://modrinth.com/user/shellatol)
 
 ## 💪 What I'm Passionate About
@@ -57,7 +57,7 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 ---
 
-[Project Archive](https://shellatolmcarchive.my.canva.site)  [Vista Niagara](https://vista-niagara.vercel.app/) ![MCreator Mod Count](https://img.shields.io/badge/MCreator_Mods-3-green) ![Other Project Count](https://img.shields.io/badge/Other_Projects-11-black) ![All Project Count](https://img.shields.io/badge/All_Projects-14-purple)
+[Project Archive](https://shellatol.my.canva.site/minecraft-archive/)  [Vista Niagara](https://vista-niagara.vercel.app/) ![MCreator Mod Count](https://img.shields.io/badge/MCreator_Mods-8-green) ![Other Project Count](https://img.shields.io/badge/Other_Projects-12-black) ![All Project Count](https://img.shields.io/badge/All_Projects-20-purple)
 
 ---
 
